@@ -1,0 +1,38 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.navwrap{
+    width: 80%;
+}
+body {
+    background-color: yellow ;
+}
+nav{
+    background-color: blue ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    margin-left: 10px;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+
+footer {
+    background-color: blue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+.footwrap{
+    width: 80%;
+}
